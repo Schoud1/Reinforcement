@@ -50,3 +50,4 @@ Files to Edit and Submit: You will fill in portions of valueIterationAgents.py, 
 
 Evaluation: Your code will be autograded for technical correctness. Please do not change the names of any provided functions or classes within the code, or you will wreak havoc on the autograder. However, the correctness of your implementation -- not the autograder's judgements -- will be the final judge of your score. If necessary, we will review and grade assignments individually to ensure that you receive due credit for your work.
 
+Details can be found here: http://ai.berkeley.edu/reinforcement.html
